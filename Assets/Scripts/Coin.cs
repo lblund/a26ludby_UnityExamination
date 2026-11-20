@@ -3,7 +3,8 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.Events;
 
-RequireComponent[typeof(CircleCollider2D)];
+[RequireComponent(typeof(CircleCollider2D))]
+
 public class Coin : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI scoreText;

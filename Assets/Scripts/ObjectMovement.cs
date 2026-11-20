@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class TestScript2 : MonoBehaviour
 {
-    [SerializeField] private magnitude = 5f;
-    [SerializeField] private speed = 1f;
+    [SerializeField] private float magnitude = 5f;
+    [SerializeField] private float speed = 1f;
 
     // Update is called once per frame
     void Update()
