@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8497204680937334895
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_footstep_gravel_02_{-8497204680937334895}
+  m_AudioClip: {fileID: 8300000, guid: d2c11f966f0b6ce469df1cb416921fd3, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4800808126334505318
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_footstep_gravel_01_{-4800808126334505318}
+  m_AudioClip: {fileID: 8300000, guid: 172df00905f0a67499a0bf84da4ec059, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-19927857206171840
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_footstep_gravel_05_{-19927857206171840}
+  m_AudioClip: {fileID: 8300000, guid: 5c3e472970a7fe741af9e0daa1724449, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2410054837709245425
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_footstep_gravel_04_{2410054837709245425}
+  m_AudioClip: {fileID: 8300000, guid: 351f966fc6db467449396020543b2baa, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4222845022405950547
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_footstep_gravel_03_{4222845022405950547}
+  m_AudioClip: {fileID: 8300000, guid: beb988538c19e7344a73458010ab015c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GravelRandom
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: -153.19153, y: 102.12765}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -4800808126334505318}
+  - {fileID: -8497204680937334895}
+  - {fileID: 4222845022405950547}
+  - {fileID: 2410054837709245425}
+  - {fileID: -19927857206171840}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 0
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 0
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
