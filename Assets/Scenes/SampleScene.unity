@@ -9620,7 +9620,7 @@ GameObject:
   - component: {fileID: 1240082455}
   - component: {fileID: 1240082454}
   m_Layer: 5
-  m_Name: UI scene change
+  m_Name: UI SceneChange buttons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31730,7 +31730,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1991166168}
   m_Layer: 0
-  m_Name: Air effector
+  m_Name: Air vent (Effector)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
