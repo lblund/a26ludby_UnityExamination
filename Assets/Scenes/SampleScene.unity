@@ -9972,7 +9972,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 38ac2381e23697f4aa3d21456fede3a5, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.513
+  m_Volume: 0.572
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -10342,7 +10342,7 @@ GameObject:
   - component: {fileID: 1367630090}
   - component: {fileID: 1367630089}
   m_Layer: 0
-  m_Name: Linerenderer between player and bouncing ball
+  m_Name: Laser between ball and player (LineRenderer)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
